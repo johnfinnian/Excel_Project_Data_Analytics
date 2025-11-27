@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-
+https://github.com/user-attachments/assets/f62f37ca-b9fb-4b6b-b325-0ae3d71e2135
 
 ## Introduction
 
