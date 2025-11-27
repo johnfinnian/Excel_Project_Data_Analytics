@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-https://github.com/user-attachments/assets/89907c07-0425-4c8f-a41b-65c06e9ab4be
+
 
 ## Introduction
 
@@ -37,8 +37,7 @@ The dataset used for this project contains real-world data science job informati
 
 **Data Science Job Salaries - Bar Chart**
 
-<img width="561" height="351" alt="Salary Bar Chart" src="https://github.com/user-attachments/assets/041520e1-29cd-4253-b025-2fd44265fa45" />
-
+<img width="561" height="351" alt="Salary Bar Chart" src="https://github.com/user-attachments/assets/7914977b-683b-4b70-b9b9-2d276f78b2b5" />
 
 **Excel Feature**: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 
@@ -51,7 +50,7 @@ The dataset used for this project contains real-world data science job informati
 
 **Country Median Salary - Map Chart**
 
-<img width="505" height="381" alt="Country" src="https://github.com/user-attachments/assets/ecf8a26a-c283-4461-8772-8877b7a6c3c6" />
+<img width="505" height="381" alt="Country" src="https://github.com/user-attachments/assets/7debd194-eaab-4747-a7a3-7735cf321e4e" />
 
 **Excel Features**: Utilized Excel's map chart feature to plot median salary globally.
 
@@ -84,12 +83,11 @@ The dataset used for this project contains real-world data science job informati
 
 Background table
 
-<img width="332" height="272" alt="Salary Table" src="https://github.com/user-attachments/assets/3eb0ee57-4c32-4717-ae00-1e35383010fb" />
+<img width="332" height="272" alt="Salary Table" src="https://github.com/user-attachments/assets/79e1e086-0372-43ed-800d-7de6df7fafd8" />
 
 **Dashboard Implementation**
 
-<img width="544" height="580" alt="Median Salary" src="https://github.com/user-attachments/assets/760cea76-ec4c-4f37-aa3d-66c5e7cac5ec" />
-
+<img width="544" height="580" alt="Median Salary" src="https://github.com/user-attachments/assets/969f0ce1-8894-4ff0-b524-bd250732f836" />
 
 **Count of Job Schedule Type**
 
@@ -106,7 +104,7 @@ Enhanced data validation: Implementing the filtered list as a data validation ru
   Incorrect or inconsistent entries are prevented
   Overall usability of the dashboard is enhanced
 
-https://github.com/user-attachments/assets/cb1dec8f-da28-4052-b158-7e20d049852d
+https://github.com/user-attachments/assets/d15b964c-3fde-4966-90b6-ac7fb918f57f
 
 ## Conclusion 
 
