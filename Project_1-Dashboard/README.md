@@ -11,6 +11,7 @@ The dashboard contians the count of jobs postings in different countries, salari
 [Checkout my project on salary dashboard](Project_1-Salary_Dashboard.xlsx)
 
 ## Excel Skills Used
+
 The following are the major skills employed in the Analysis:
 
 **Charts**
@@ -81,7 +82,7 @@ The dataset used for this project contains real-world data science job informati
 
 **Formula Purpose**: This formula populates the table below, returning the median salary based on job title, county and type specified.
 
-Background table
+**Background table**
 
 <img width="332" height="272" alt="Salary Table" src="https://github.com/user-attachments/assets/79e1e086-0372-43ed-800d-7de6df7fafd8" />
 
