@@ -120,7 +120,7 @@ I first used Power Query to extract the original data (`data_salary_all.xlsx`) a
 ### 🧮 DAX
 - To calculate the median year salary I used DAX.
 
-```Median Salary := MEDIAN(data_jobs_all[salary_year_avg])```
+```Median Salary := MEDIAN(data_jobs_salary[salary_year_avg])```
 
 ## 📊 Analysis
 ### 💡 Insights
