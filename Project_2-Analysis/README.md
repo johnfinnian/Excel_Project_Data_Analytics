@@ -63,14 +63,5 @@ Then, I transformed each query by:
   
   <img width="297" height="395" alt="Data Table" src="https://github.com/user-attachments/assets/4a0749c2-917c-4e75-8944-532867b10cd4" />
 
-#### 1️⃣ Do more skills get you better pay?
-- 🔍 **Skill:** Power Query (ETL)
 
-#### 📥 Extract
-I first used Power Query to extract the original data (`data_salary_all.xlsx`) and create two queries:
-- 🗃️ The first with all the data jobs information.
-- 🔧 The second listing the skills for each job ID.
-
-#### 🔄 Transform
-Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
 
